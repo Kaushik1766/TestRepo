@@ -1,2 +1,3 @@
 apiKey = afdasfsjdfaklsjdflkjahsdfuehue23u2hfdjk
-geminiApi = adsfeweflj34394fjaokjdfalwij
+geminiApi = adsfeweflj34394fjaokjdfalwijd
+d
